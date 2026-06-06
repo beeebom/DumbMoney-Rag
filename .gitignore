@@ -3,9 +3,11 @@
 .venv/
 venv/
 
+# claude code
+.claude/
+
 # output data
-data/
-input_pdfs/
+
 
 # python
 __pycache__/
