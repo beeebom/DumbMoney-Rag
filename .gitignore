@@ -1,0 +1,16 @@
+# environment
+.env
+.venv/
+venv/
+
+# output data
+data/
+input_pdfs/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# vector db
+vector_db/
